@@ -2,6 +2,8 @@
 
 ### About me...
 * 2nd year CS student at TMU.
+* Extremely passionate about programming, and love learning new languages.
+* Freelance Web Developer
 
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=RyanDhingra&show_icons=true&bg_color=0492C2&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
