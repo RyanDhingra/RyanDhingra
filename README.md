@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 ### About me...
-* 2nd year CS student at TMU.
+* 3rd year CS student at TMU.
 * Extremely passionate about programming, and love learning new languages.
 * Freelance Web Developer
 
