@@ -3,8 +3,7 @@
 ### About me...
 * 3rd year CS student at TMU.
 * Software Developer @ Sun Life
-* Freelance Web Developer
-
+* Freelance Developer
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=RyanDhingra&show_icons=true&bg_color=0492C2&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
 ### Contact me:
