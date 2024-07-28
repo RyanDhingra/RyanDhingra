@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 ### About me...
-* 3rd year CS student at TMU.
+* 4th year CS student at Toronto Metropolitan University.
 * Software Developer @ Sun Life
 * Freelance Developer
   
