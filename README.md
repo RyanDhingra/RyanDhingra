@@ -14,7 +14,8 @@
 * IOT devices
 * 3D Design and Additive Manufacturing (3D printing)
 * PCB + Circuit Design
-  
+
+### Stats:
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=RyanDhingra&show_icons=true&bg_color=0492C2&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
 ### Contact me:
