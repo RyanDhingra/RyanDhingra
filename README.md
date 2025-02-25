@@ -20,6 +20,6 @@
 
 ### Contact me:
 * <a href="https://www.linkedin.com/in/ryan-dhingra-82969822b/" target="_blank">LinkedIn</a>
-* <a href="[https://www.linkedin.com/in/ryan-dhingra-82969822b/](https://www.instagram.com/ryxn_lives/)" target="_blank">Instagram</a>
+* <a href="https://www.instagram.com/ryxn_lives/" target="_blank">Instagram</a>
 * ryandhingra@gmail.com
 * https://ryand-dev.vercel.app/
