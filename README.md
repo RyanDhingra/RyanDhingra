@@ -1,5 +1,7 @@
 # Welcome to my GitHub profile!
 
+## NOTE: code repositories for any production grade applications or software are not available on my GitHub for obvious security reasons. To view the details or to view the production applications, please visit my personal website mentioned below in the `Contact me:` sections. Welcome again!
+
 ### About me...
 * CS graduate from Toronto Metropolitan University.
 * Prev Software Developer @ Sun Life
