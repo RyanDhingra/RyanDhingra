@@ -6,10 +6,19 @@
 * CS graduate from Toronto Metropolitan University.
 * Prev Software Developer @ Sun Life
 * Freelance Developer
+
+### Topics of interest:
+* Computer Vision
+* Full Stack Software Development
+* Large Language Models
+* IOT devices
+* 3D Design and Additive Manufacturing (3D printing)
+* PCB + Circuit Design
   
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=RyanDhingra&show_icons=true&bg_color=0492C2&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
 ### Contact me:
 * <a href="https://www.linkedin.com/in/ryan-dhingra-82969822b/" target="_blank">LinkedIn</a>
+* <a href="[https://www.linkedin.com/in/ryan-dhingra-82969822b/](https://www.instagram.com/ryxn_lives/)" target="_blank">Instagram</a>
 * ryandhingra@gmail.com
 * https://ryand-dev.vercel.app/
