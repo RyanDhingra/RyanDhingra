@@ -4,7 +4,8 @@
 
 ### About me...
 * CS graduate from Toronto Metropolitan University.
-* Campaign Data Analyst @ Sun Life
+* Cloud Engineer @ Sun Life
+* Prev Campaign Data Analyst @ Sun Life
 * Prev SD Intern @ Sun Life
 * Freelance Developer
 
